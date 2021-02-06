@@ -1,7 +1,4 @@
 YEAR  |  MONTH | DATE   |    TIME     |Gender |  Height   |   Weight   |    Calculated_BMI      |    Insight
 2021  |   01   |   11   |   16:19:32  |  M    |   1.92    |   123.00   |         33.37          |    Obese ---- High Risk
-2021  |   01   |   11   |   16:20:17  |  m    |   1.80    |   90.00   |         27.78          |    Overweight ---- Enchanced risk
-2021  |   01   |   11   |   19:24:41  |  m    |   1.92    |   122.40   |         33.20          |    Obese ---- High Risk
-2021  |   02   |   06   |   11:14:15  |  m    |   1.92    |   122.00   |         33.09          |    Obese ---- High Risk
-2021  |   02   |   06   |   12:25:20  |  m    |   1.92    |   122.00   |         33.09          |    Obese ---- High Risk
-2021  |   02   |   06   |   12:26:48  |  m    |   1.92    |   122.00   |         33.09          |    Obese ---- High Risk
+2021  |   02   |   06   |   12:45:45  |  m    |   1.92    |   122.00   |         33.09          |    Obese ---- High Risk
+2021  |   02   |   06   |   12:46:08  |  m    |   1.92    |   122.00   |         33.09          |    Obese ---- High Risk

@@ -1,5 +1,5 @@
 
-####Wish user based on time
+####Wish/ Greet the user based on time
 def wishUser(name):
     from datetime import datetime
     ts = datetime.now()
