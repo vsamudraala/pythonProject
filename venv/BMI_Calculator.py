@@ -76,3 +76,5 @@ print(f"year      month     day       time")
 print(f"{year}      {month}     {day}       {time}")
 f = open("C:/Users/venka/PycharmProjects/pythonProject/venv/Input/weightLogInPython.txt", "a")
 f.write(f"\n{year}  |   {month}   |   {day}   |   {time}  |  {uGender}    |   {res}")
+
+print(f"GBM.... Added printFToConfirmCommit in NewBranch branch")
